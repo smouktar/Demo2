@@ -6,8 +6,3 @@ Write something
 ## Small Heading 
 
 Write something
-
-hello 
-
-world
-
